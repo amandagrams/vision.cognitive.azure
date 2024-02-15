@@ -1,0 +1,14 @@
+{
+    "apim-request-id": "fc64d5a4-cc0f-4212-9235-1de739b46b50",
+    "content-length": "176",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a green alien with long green ears and green eyes",
+      "confidence": 0.5991348624229431
+    },
+    "metadata": {
+      "width": 743,
+      "height": 562
+    }
+  }
